@@ -128,4 +128,45 @@
 
 .main-top {
   background: rgba(30, 40, 50, 0.05);
+}
+
+.brands {
+  justify-content: space-around;
+  margin: 90px 0px;
+}
+
+.brand-logo {
+  height: 70px;
+  width: 200px;
+  object-fit: contain;
+}
+
+.mainimgcollect {
+  height: 648px;
+  width: 648px;
+  object-fit: contain;
+}
+
+.imgcollect {
+  height: 312px;
+  width: 312px;
+  object-fit: contain;
+  margin-bottom: 24px;
+}
+
+.popular-style-text {
+  position: absolute;
+  width: 648px;
+  height: 52px;
+  left: -240px;
+  top: 1255px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(-90deg);
 }/*# sourceMappingURL=style.css.map */
