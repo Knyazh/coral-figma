@@ -27,6 +27,9 @@ line-height: 34px;
     width: 100px;
     height: 25px;
     margin-right: 20px;
+    p{
+        margin-right: 20px;
+    }
 }
 .line{
     position: absolute;
@@ -36,5 +39,11 @@ left: 0px;
 top: 59px;
 border: 1px solid #E3E3E3;
 margin-left: 200px;
+}
+.account-logo{
+    align-items: center;
+}
+.header-logos{
+    background: rgba(30, 40, 50, 0.05);
 }
 

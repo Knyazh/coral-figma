@@ -1,0 +1,55 @@
+.main-img {
+  margin-top: 50px;
+  img {
+    height: 562px;
+    width: 442px;
+    object-fit: contain;
+    border-radius: 200px 0px;
+  }
+}
+.content {
+  box-sizing: border-box;
+  margin-top: 170px;
+  h1 {
+    width: 360px;
+    height: 55px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 74px;
+    line-height: 55px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .explore-text {
+    width: 682px;
+    height: 119px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 55px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 19px 26px;
+    position: absolute;
+    width: 223px;
+    height: 72px;
+    top: 550px;
+    background: #1E2832;
+    color: aliceblue;
+  }
+}
+.shop-now{
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+.main-top{
+    background: rgba(30, 40, 50, 0.05);
+}
