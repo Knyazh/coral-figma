@@ -158,7 +158,7 @@
   position: absolute;
   width: 648px;
   height: 52px;
-  left: -240px;
+  left: -105px;
   top: 1255px;
   font-family: "Roboto";
   font-style: normal;
@@ -169,4 +169,93 @@
   text-transform: uppercase;
   color: #000000;
   transform: rotate(-90deg);
+}
+
+.the-newsletter {
+  margin-top: 140px;
+  margin-bottom: 40px;
+  margin-left: 500px;
+  width: 707px;
+  height: 59px;
+  font-family: "Roboto";
+  font-size: 50px;
+  line-height: 59px;
+  text-align: center;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+.product-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: capitalize;
+  color: #000000;
+  margin-right: 40px;
+}
+
+.filter-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 15px;
+  gap: 4px;
+  width: 92px;
+  height: 32px;
+  background: #1E2832;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 800px;
+}
+
+.filter-text {
+  margin-bottom: 0px;
+  width: 38px;
+  height: 22px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.fa-filter {
+  width: 16px;
+  height: 14px;
+  font-family: "Font Awesome 6 Free";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.card-image {
+  height: 400px;
+  width: 312px;
+  object-fit: contain;
+}
+
+.card h4 {
+  width: 189px;
+  height: 22px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: capitalize;
+  color: #000000;
+  margin-top: 18px;
 }/*# sourceMappingURL=style.css.map */
