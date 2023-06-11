@@ -1,0 +1,58 @@
+.brand-section{
+ margin-top: 140px;
+position: absolute;
+width: 1920px;
+height: 776px;
+left: 0px;
+}
+.zara-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 19px 26px;
+gap: 8px;
+position: absolute;
+width: 237px;
+height: 72px;
+left: 1083px;
+top: 611px;
+background: #FFFFFF;
+}
+.zara-brand-text{
+    position: absolute;
+width: 504px;
+height: 187px;
+left: 1083px;
+top: 369px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 40px;
+text-transform: capitalize;
+color: #FFFFFF;
+
+}
+.zara-logo1{
+    position:absolute;
+    height: 309px;
+    width: 732px;
+    object-fit: contain;
+    right: 200px;
+}
+.zara-logo2{
+position: absolute;
+width: 191px;
+height: 81px;
+right: 850px;
+top: 160px;
+
+background: url(1024px-Zara_Logo.png);
+}
+
+.main-zara-logo{
+    width: 1920px;
+    height: 766px;
+    object-fit: contain;
+}
