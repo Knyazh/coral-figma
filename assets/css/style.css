@@ -319,4 +319,16 @@
   width: 1920px;
   height: 766px;
   object-fit: contain;
+}
+
+.best-seller-section {
+  margin-top: 1000px;
+}
+.best-seller-section h2 {
+  margin-left: 900px;
+  margin-bottom: 40px;
+}
+
+.best-seller-card {
+  margin-bottom: 140px;
 }/*# sourceMappingURL=style.css.map */
