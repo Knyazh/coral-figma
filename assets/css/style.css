@@ -462,4 +462,20 @@ footer i {
 
 .footer-top {
   margin-bottom: 90px;
+}
+
+.footer-bottom {
+  display: flex;
+  padding: 10px 300px;
+  gap: 375px;
+  width: 1800px;
+  height: 52px;
+  background: #1E2832;
+}
+.footer-bottom img {
+  width: 283px;
+  height: 24px;
+}
+.footer-bottom p {
+  color: aliceblue;
 }/*# sourceMappingURL=style.css.map */
